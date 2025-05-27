@@ -13,7 +13,7 @@
 </div>
 
 <div align="left">
-  Visit StemLink-GPT- Click <a href="https://stemlinkgpt.netlify.app/" target="_blank">Here</a>
+  Visit StemLink-GPT-  <a href="https://stemlinkgpt.netlify.app/" target="_blank">Click Here</a>
 </div>
 
 ###
