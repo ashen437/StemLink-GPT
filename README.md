@@ -6,7 +6,11 @@
   </h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Chatbots+powered+by+AI;Seamless+Customer+Support;Smart+Knowledge+Integration&font=Fira%20Code&center=true&width=440&height=45&color=%23000000&vCenter=true&size=22&pause=1000&color_mode=auto" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Chatbots+powered+by+AI;Seamless+Customer+Support;Smart+Knowledge+Integration&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Chatbots+powered+by+AI;Seamless+Customer+Support;Smart+Knowledge+Integration&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&size=22&pause=1000" />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Chatbots+powered+by+AI;Seamless+Customer+Support;Smart+Knowledge+Integration&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+    </picture>
   </p>
 
 
@@ -124,7 +128,7 @@ npm run dev
 <h3 align="left">📂 Project Structure</h3>
 
 ```
-StemLink-GPT/
+StemLink-GPT_/
 ├── backend/              # Backend server
 │   ├── models/           # Data models
 │   ├── routes/           # API routes
