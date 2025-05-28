@@ -156,10 +156,6 @@ StemLink-GPT_/
 └── README.md            # Project documentation
 ```
 
-<div align="center">
-  <img src="https://ik.imagekit.io/communeo/stemlink/Screenshot%202025-05-27%20093635.png?updatedAt=1748320279165" alt="Project Structure" width="700" />
-</div>
-
 ###
 
 <h3 align="left">📸 Project Screenshots</h3>
