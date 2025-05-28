@@ -6,14 +6,14 @@
   </h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Chatbots+powered+by+AI;Seamless+Customer+Support;Smart+Knowledge+Integration&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Chatbots+powered+by+AI;Seamless+Customer+Support;Smart+Knowledge+Integration&font=Fira%20Code&center=true&width=440&height=45&color=%23000000&vCenter=true&size=22&pause=1000&color_mode=auto" />
   </p>
 
 
 </div>
 
 <div align="left">
-  Visit StemLink-GPT-  <a href="https://stemlinkgpt.netlify.app/" target="_blank">Click Here</a>
+  Visit StemLink-GPT- Click <a href="https://stemlinkgpt.netlify.app/" target="_blank">here</a>
 </div>
 
 ###
@@ -122,6 +122,35 @@ npm run dev
 ###
 
 <h3 align="left">📂 Project Structure</h3>
+
+```
+StemLink-GPT/
+├── backend/              # Backend server
+│   ├── models/           # Data models
+│   ├── routes/           # API routes
+│   ├── services/         # Business logic services
+│   └── index.js          # Server entry point
+├── client/              # Frontend application
+│   ├── public/           # Static files
+│   └── src/              # Source code
+│       ├── components/   # UI components
+│       │   ├── chat-input/    # Chat input components
+│       │   ├── chatList/      # Chat list components
+│       │   ├── mini-chat/     # Mini chat components
+│       │   ├── newPrompt/     # New prompt components
+│       │   ├── ui/            # UI components
+│       │   └── upload/        # Upload components
+│       ├── hooks/        # Custom React hooks
+│       ├── layouts/      # Layout components
+│       │   ├── dashboardLayout/  # Dashboard layout
+│       │   └── rootLayout/       # Root layout
+│       ├── lib/          # Utility libraries
+│       └── routes/       # Application routes
+│           ├── chatPage/       # Chat page
+│           ├── dashboardPage/  # Dashboard page
+│           └── homepage/       # Home page
+└── README.md            # Project documentation
+```
 
 <div align="center">
   <img src="https://ik.imagekit.io/communeo/stemlink/Screenshot%202025-05-27%20093635.png?updatedAt=1748320279165" alt="Project Structure" width="700" />
